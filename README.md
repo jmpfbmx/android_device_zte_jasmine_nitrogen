@@ -1,4 +1,14 @@
-Copyright 2017 - The LineageOS Project
+# android_device_zte_jasmine_nitrogen
+## Welcome to jmpf_bmx project
+**************************************************************************************
+## For sync these device/zte/jasmine you only have to do that:
+```
+1st delete zte/jasmine folder on your (*Your Repo of NitrogenOS*)/device
+2nd open a terminal put cd (*Your Repo of NitrogenOS*) And put these:
+  `git clone -b n2 https://github.com/jmpfbmx/android_device_zte_jasmine_nitrogen device/zte/jasmine`
+```
+
+Copyright 2017 - NitrogenOS 
 
 Device configuration for ZTE Trek 2 HD
 ======================================
